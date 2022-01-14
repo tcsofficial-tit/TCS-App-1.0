@@ -1,0 +1,56 @@
+{
+  "project_info": {
+    "project_number": "928990625412",
+    "firebase_url": "https://tcsflutterapp-default-rtdb.firebaseio.com",
+    "project_id": "tcsflutterapp",
+    "storage_bucket": "tcsflutterapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:928990625412:android:9394a7dbaadabe84534cd1",
+        "android_client_info": {
+          "package_name": "com.tittcs.tcsflutter_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "928990625412-56phs6v9e0f6cg2f3vs1cut71ubc79d0.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.tittcs.tcsflutter_app",
+            "certificate_hash": "fc7680fb2f969303825ef75b76278421b94d12ac"
+          }
+        },
+        {
+          "client_id": "928990625412-id0u743j7cipflc7g2ehvc2ultio8o8n.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.tittcs.tcsflutter_app",
+            "certificate_hash": "6475265f070709d5f806940efa0ae6490e59293c"
+          }
+        },
+        {
+          "client_id": "928990625412-hbvspaobhtuv48eka50ec317uvf7dl5f.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBLIkSp0fbaC_a_eh6rjQrgONHA4HhsCWc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "928990625412-hbvspaobhtuv48eka50ec317uvf7dl5f.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
